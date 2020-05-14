@@ -12,6 +12,9 @@ Execute:
 ```
 ExecuteWaterReminder.cmd
 ```
+make sure Requirments are installed using 
+
+``` pip install plyer```
 
 
 ## License
