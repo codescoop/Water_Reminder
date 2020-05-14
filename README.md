@@ -10,7 +10,7 @@ Simply run it using:
 Or
 Execute:
 ```
-ExecuteWaterReminder.bat
+ExecuteWaterReminder.cmd
 ```
 
 
