@@ -9,8 +9,8 @@ if __name__ == "__main__":
                         message= "To prevent dehydration,Health authorities commonly recommend eight 8-ounce glasses, which equals about 2 liters, or half a gallon.",
                         app_name="WaterReminder",
                         #app_icon="water_drink_bottle_icon.ico",
-                        timeout=2
+                        timeout=10
                         )
-        time.sleep(4)
+        time.sleep(60*60)
 
 #open Terminal -> run -> pythonw.exe ./WaterReminder.py
