@@ -1,4 +1,4 @@
-## Water Reminder
+## Water Drinking Reminder
 It reminds the user by desktop notification to drink water at an interval of every 60 minutes.
 
 ## Usage
