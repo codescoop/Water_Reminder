@@ -3,19 +3,25 @@ It reminds the user by desktop notification to drink water at an interval of eve
 
 ## Usage
 
-Simply run it using:
-```
-./WaterReminder.py
-```
-Or
-Execute:
+1. Open your Terminal/cmd
+
+2. git clone this project to your preferred directory.
+
+3. `cd Water_Reminder`
+
+4. `python WaterReminder.py`
+
+<br/>
+
+or Execute:
 ```
 ExecuteWaterReminder.cmd
 ```
-make sure Requirments are installed using 
-
-``` pip install plyer```
-
+## Installation
+Set up a virtual environment and install the dependencies:
+```sh
+pip install -r requirements.txt
+```
 
 ## License
 This project is licensed under the terms of the [MIT license](https://github.com/nagracks/organizer/blob/master/LICENSE).
